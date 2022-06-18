@@ -18,3 +18,6 @@ week1-eray-can created by GitHub Classroom
 4-(Abstraction) Soyutlama nedir?
 
 *Kullanıcıdan gereksiz ayrıntıları gizleyerek karışıklığın önüne geçmektir.
+
+
+![uml](https://user-images.githubusercontent.com/85164822/174446858-519f6cde-46a1-4bff-8e83-86b202aab379.png)

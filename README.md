@@ -1,5 +1,7 @@
 # week1-eray-can
 week1-eray-can created by GitHub Classroom
+
+
 1-OOP Nedir?
 
 *Nesne yönelimli programlama Yazılımın karmaşıklığını azaltmak için kullanılır.Farklı bir yazılımcı koda baktığı zaman kod karmaşıklığı olmadan sade ve nesne yönelimli programlamaya uygun kodlar olması lazım ki yazdığımız kodlar geliştirmeye ve okunmaya açık olsun.

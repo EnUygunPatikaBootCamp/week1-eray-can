@@ -13,7 +13,7 @@ week1-eray-can created by GitHub Classroom
 3-Bir metodun private, protected ya da public olması kavramlarını açıklayınız.
 
 *public methodlarda sınıfın her yerinden ve farklı sınıflardan erişebiliriz.
-*public methodlarda sınıfın her yerinden ve farklı sınıflardan erişebiliriz.
+*private methodlarda sadece ilgili clastan erişebiliriz bu class dışından erişemeyiz
 *protected methodlarda sınıf dışı erişim sağlanamaz sadece o sınıftan ve sınıftan miras alan sınıflar içinden erişim sağlayabiliriz
 
 
